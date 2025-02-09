@@ -1,3 +1,9 @@
+---
+id: 0x01_C_Variables_if_else_while
+aliases: []
+tags: []
+---
+
 # Resources
 
 [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)

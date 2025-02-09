@@ -1,3 +1,9 @@
+---
+id: 0x02_C_Functions_nested_loops
+aliases: []
+tags: []
+---
+
 # Resources
 
 [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
@@ -6,6 +12,6 @@
 
 [Learning to Program in C (Part 06)](https://www.youtube.com/watch?v=qMlnFwYdqIw)
 
-[What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
+[What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what- [ ]is-the-purpose-of-a-function-prototype/)
 
 [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
